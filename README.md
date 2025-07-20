@@ -77,6 +77,8 @@ Analytics for clubs and events
 
 Integration with college email and calendars
 
+Team Name: ScriptKiddos
+
 **Team Members**
 Rhitika Vishwakarma
 Palak Upadhyay
